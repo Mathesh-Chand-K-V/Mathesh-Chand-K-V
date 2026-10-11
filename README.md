@@ -12,7 +12,7 @@
 
 ## 🔭 About
 
-Backend engineer and local-AI builder — I like software that doesn't need permission from a cloud provider to run. Most of what I build starts as "can this work fully offline?"
+I like software that doesn't need permission from a cloud provider to run. Most of what I build starts as "can this work fully offline?"
 
 **Currently:**
 - 🧠 **JARVIS** — a fully local AI assistant (Ollama + FastAPI + RAG), zero cloud dependency
