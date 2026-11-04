@@ -76,11 +76,12 @@ Fully local AI assistant powered by Ollama — RAG, OCR, speech-to-text, TTS, an
 
 </td>
 <td width="33%" valign="top">
+  
+### 🛡️ [Cybersecurity Incident Management System](https://github.com/Mathesh-Chand-K-V/Cybersecurity-Incident-Management-System)
 
-### 🗳️ [Election Management System](https://github.com/Mathesh-Chand-K-V/ELection-Management-System)
-A desktop application for running secure, tamper-resistant digital elections end to end.
+A role-based incident management system for reporting, tracking, and managing cybersecurity incidents, with dedicated workflows for users, analysts, and administrators.
 
-`Python` `Tkinter`
+`Java` `MySQL` `JDBC` `Maven`
 
 </td>
 <td width="33%" valign="top">
