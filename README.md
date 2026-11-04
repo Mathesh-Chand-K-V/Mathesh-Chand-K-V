@@ -96,13 +96,32 @@ A computer-vision OCR pipeline — preprocessing, text detection, and recognitio
 
 ---
 
-## 📊 GitHub Stats
+
+---
+
+## 📊 GitHub Activity & Commit Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathesh-Chand-K-V&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
+  <img src="./assets/cadence.light.svg" alt="GitHub Commit Activity by Day and Hour" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+  <img src="./assets/repositories.light.svg" alt="Most Active Repositories by Commits" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub Profile Overview" width="100%" />
+</picture>
+
 </div>
 
 ---
+
 
 <div align="center">
 
