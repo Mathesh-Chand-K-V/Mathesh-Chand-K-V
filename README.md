@@ -39,7 +39,6 @@ I like software that doesn't need permission from a cloud provider to run. Most 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -47,7 +46,6 @@ I like software that doesn't need permission from a cloud provider to run. Most 
 **AI / ML & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -57,7 +55,6 @@ I like software that doesn't need permission from a cloud provider to run. Most 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Sentinel 2](https://img.shields.io/badge/Sentinel--2-003399?style=for-the-badge&logo=esa&logoColor=white)
 
 **Development Tools**
 
@@ -111,17 +108,6 @@ A multimodal environmental monitoring system combining Sentinel-2 satellite imag
 ## 📊 GitHub Activity & Commit Analytics
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
-  <img src="./assets/cadence.light.svg" alt="GitHub Commit Activity by Day and Hour" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-  <img src="./assets/repositories.light.svg" alt="Most Active Repositories by Commits" width="100%" />
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
   <img src="./assets/overview.light.svg" alt="GitHub Profile Overview" width="100%" />
@@ -129,4 +115,3 @@ A multimodal environmental monitoring system combining Sentinel-2 satellite imag
 
 </div>
 
----
