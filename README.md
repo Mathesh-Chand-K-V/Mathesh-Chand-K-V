@@ -103,15 +103,4 @@ A multimodal environmental monitoring system combining Sentinel-2 satellite imag
 ---
 
 
----
-
-## 📊 GitHub Activity & Commit Analytics
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img src="./assets/overview.light.svg" alt="GitHub Profile Overview" width="100%" />
-</picture>
-
-</div>
 
