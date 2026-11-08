@@ -86,10 +86,10 @@ A role-based incident management system for reporting, tracking, and managing cy
 </td>
 <td width="33%" valign="top">
 
-### 🔍 [Smart OCR System](https://github.com/Mathesh-Chand-K-V/Smart-OCR-System)
-A computer-vision OCR pipeline — preprocessing, text detection, and recognition tuned for high-accuracy extraction.
+### 🦟 [Vector-Borne Risk Monitoring](https://github.com/Mathesh-Chand-K-V/Vector-Borne-Risk-Monitoring)
+A multimodal environmental monitoring system combining Sentinel-2 satellite imagery, historical weather data, ResNet-18, and Random Forest models to assess mosquito habitat suitability and environmental risk indicators.
 
-`Python` `OpenCV`
+`Python` `PyTorch` `ResNet-18` `Random Forest` `Sentinel-2` `Streamlit`
 
 </td>
 </tr>
